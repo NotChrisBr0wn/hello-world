@@ -1,7 +1,7 @@
 # hello-world
 Hi there 👋🏼, my name is Daniel and this is my first time using GitHub.
 
-## Info about me
+## About me
 So I'm 18 and I live in Portugal but I speak english fluently.
 I like to learn stuff related to things i like for example programming languages that interest me such as Web Dev languages or C#, I also like to learn new languages as i know english, a bit of spanish, russian, german (learned in school) and am currently trying to learn french to speak at least basic. All the others languages except english and spanish I know a little too and need to sharp them.
 I also know basic C# and html.
